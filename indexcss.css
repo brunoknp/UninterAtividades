@@ -1,0 +1,82 @@
+body {
+background-color: antiquewhite;
+font-family: Ariak, sans-serif;
+margin:35px;
+color: #333;
+}
+
+h1 {
+color: coral;
+text-align: center;
+}
+
+.p8{
+text-align: center;
+}
+p {
+font-size: 18px;
+text-align: justify;
+line-height: 1.6;
+}
+ul li {
+margin-bottom: 12px;
+}
+.img1{
+width: 900px;
+border-radius: 25px;
+display: block;
+}
+img {
+width: 350;
+border-radius: 15px;
+display: block;
+margin: 20px auto;
+}
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 30px;
+background-color:#ffffff;
+box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+table, th, td {
+border: 1px solid #ccc;
+padding: 12px;
+text-align: center;
+}
+
+td img {
+width: 250px;
+border: radius 10px;
+}
+a {
+display: block;
+text-align: center;
+margin-top: 30px;
+font-size: 18px;
+text-decoration: none;
+color: #0077cc;
+
+}
+a:hover {
+color: #ff6600;
+}
+#mensagem {
+margin: top 10px;
+font-weight: bold;
+color: #2e8b57;
+}
+
+button {
+padding: 10px 20px;
+font-size: 16px;
+background-color: #2e8b57;
+color: white;
+border: none;
+border-radius: 8px;
+cursor: pointer;
+}
+button:hover {
+background-color: #3cb371;
+}
